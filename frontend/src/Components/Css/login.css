@@ -1,0 +1,10 @@
+.login {
+  height: 60vh;
+  width: 100%;
+  text-align: center;
+}
+
+.loginform {
+  box-shadow: 5px 10px #888888;
+  opacity: 0.75;
+}
